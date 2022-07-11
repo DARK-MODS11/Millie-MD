@@ -23,16 +23,16 @@
         "wabot-aq",
         "millie-Md"
     ],
-    "homepage": "https://github.com/Neeraj-x0",
+    "homepage": "https://github.com/DARK-MODS11",
     "author": {
         "name": "EX MODZ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Neeraj-x0.git"
+        "url": "https://github.com/DARK-MODS11.git"
     },
     "bugs": {
-        "url": "https://github.com/Neeraj-x0/issues"
+        "url": "/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
