@@ -91,7 +91,7 @@ module.exports = {
                     "groupJid": "120363040549014341@g.us",
                     "inviteCode": "BcOf8vB5KAlFQhb3c5d06b",
                     "groupName": "ᴍɪʟʟɪᴇ-ᴍᴅ", 
-                    "caption": "ɴᴇᴇʀᴀᴊ-x0", 
+                    "caption": "EX MODS", 
                     'jpegThumbnail': thumburl
                 }
             }
@@ -117,7 +117,7 @@ module.exports = {
             message: { 
                         "videoMessage": { 
                         "title":"ᴍɪʟʟɪᴇ-ᴍᴅ",
-                        "h": `ɴᴇᴇʀᴀᴊ-x0`,
+                        "h": `EX MODS`,
                         'seconds': '404', 
                         'caption': 'ᴍɪʟʟɪᴇ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ',
                         'jpegThumbnail': thumburl
@@ -152,7 +152,7 @@ module.exports = {
                             "jpegThumbnail": thumburl
                         },
                         "title": "ᴍɪʟʟɪᴇ-ᴍᴅ",
-                        "description": "ɴᴇᴇʀᴀᴊ-x0",
+                        "description": "EX MODS",
                         "currencyCode": "USD",
                         "priceAmount1000": "404000000",
                         "retailerId": "ᴍɪʟʟɪᴇ-ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ",
@@ -174,7 +174,7 @@ module.exports = {
                                     itemCoun : 404,
                                     surface : 404,
                                     message: 'ᴍɪʟʟɪᴇ-ᴍᴅ',
-                                    orderTitle: 'ɴᴇᴇʀᴀᴊ-x0B',
+                                    orderTitle: 'EX MODSB',
                                     thumbnail: thumburl, 
                                     sellerJid: '0@s.whatsapp.net'
                   
