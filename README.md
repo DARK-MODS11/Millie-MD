@@ -2,7 +2,7 @@
 # *Millie Multi-Device*
 
 <div align="center"> 
-  <img border-radius: 15px src="https://i.imgur.com/DvIT8hC.jpeg" width="200" height="200"/>
+  <img border-radius: 15px shttps://i.imgur.com/bn6IU67.jpeg" width="200" height="200"/>
 
 
 <div align="center">
@@ -49,9 +49,9 @@
       
       WATERMARK : Watermark For Buttons
       
-      OWNER : Your Number
+      OWNER : wa.me//:918943735761
       
-      OWNER_NAME : Your Name
+      OWNER_NAME : EX MODS
       
 ```
 
