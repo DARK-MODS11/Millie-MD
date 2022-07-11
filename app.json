@@ -1,8 +1,8 @@
 {
   "name": "Millie-MD",
-  "logo": "https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/millie.jpg",
+  "logo": "https://github.com/1/Millie-MD?organization=DARK-MODS11&organization=DARK-MODS11.jpg",
   "description": "WhatsApp Bot",
-  "repository": "https://github.com/Neeraj-x0/Millie-MD",
+  "repository": "https://github.com/DARK-MODS11/Millie-MD",
   "keywords": ["bot","whatsapp","whatsapp-bot"],
   "env": {
  "SESSION_ID": {
